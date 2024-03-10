@@ -1,2 +1,3 @@
-# blackmaskservices
-A bot for The Black Mask Discord server!
+# Black Mask Services
+
+A bot for The Black Mask Discord server! More info coming soon...
